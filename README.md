@@ -1,6 +1,6 @@
 ### Hi there 👋
-I am Sambit.
-🌱 I’m currently researching more on MLOps and Transfer Learning.
+I am Sambit.<br/>
+🌱 I’m currently researching more on MLOps and Transfer Learning.<br/>
 Wanna build something amazing? reach to me at sambit9238@gmail.com
 <!--
 **sambit9238/sambit9238** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
